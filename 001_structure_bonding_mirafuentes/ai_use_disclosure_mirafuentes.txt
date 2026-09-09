@@ -1,0 +1,29 @@
+ASSIGNMENT 
+Course: CHEM 13 | Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 1
+Student Name: J.L. Mirafuentes
+Year & Block: BSChE-2A
+Department: Department of Chemical Engineering, Bicol University
+
+
+AI Tool Used:
+
+Google Gemini AI
+
+
+Purpose and Nature of AI Assistance:
+
+1.Data Extraction & Structuring:
+
+Assisted in organizing raw chemical data, PubChem parameters, literature excerpts, and SDS specs into structured sections.
+
+2. Content Formatting:
+
+Helped condense text and draft concise wording tailored for infographic layout constraints.
+
+
+Independent Verification & Student Responsibility:
+
+-I independently verified all chemical parameters, structural formulas, data points, and references against authoritative literature.
+
+-I take full responsibility for the accuracy and final presentation of all submitted materials.
