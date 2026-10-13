@@ -1,0 +1,25 @@
+ASSIGNMENT 
+Course: CHEM 13 | Organic Chemistry (Lecture)
+Activity: Asynchronous Activity No. 1
+Student Name: J.L. Mirafuentes
+Year & Block: BSChE-2A
+Department: Department of Chemical Engineering, Bicol University
+
+
+AI Tool Used:
+
+Google Gemini AI
+
+Purpose and Nature of AI Assistance:
+
+Technical Review & Structural Verification:
+Assisted in checking chemical formulas for correctness, evaluating layout coherence, and verifying atom counts, valences, bond orders, connectivity, and molecular identity.
+
+Content Refinement:
+Helped organize and format the verification results for clear presentation.
+
+Independent Verification & Student Responsibility:
+
+I independently verified all chemical parameters, structural formulas, data points, and references against authoritative literature.
+
+I take full responsibility for the accuracy and final presentation of all submitted materials.
