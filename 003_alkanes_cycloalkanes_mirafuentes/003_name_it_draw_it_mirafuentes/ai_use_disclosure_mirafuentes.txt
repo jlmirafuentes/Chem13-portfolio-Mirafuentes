@@ -1,0 +1,65 @@
+AI USE DISCLOSURE
+CHEM 13 - Organic Chemistry (Lecture)
+Asynchronous Activity No. 3 - Name It, Draw It
+
+Name: J.L. Mirafuentes
+Section: BS Chemical Engineering- 2A
+
+
+1. NAMING TOOL
+
+The Alkane (https://thealkane.com)
+Used as the activity requires:
+- Part A: drew each given structure and recorded the returned name for
+  box 4 (The Alkane Check).
+- Part B: drew each structure from the given name and recorded the
+  returned name for the back-check.
+Where The Alkane's name differed from mine, I recorded the returned name
+as shown and explained the difference (see section 3).
+
+
+2. AI TOOL
+
+Claude (Anthropic AI assistant, claude.ai app)
+
+What I used it for:
+a) Learning support: asked how The Alkane works and how the first point
+   of difference rule, alphabetical order and tie-breaking apply.
+b) Part A (A01-A10): help numbering the highlighted parent chain or ring
+   on each structure image, and drafting the naming trail (parent,
+   numbering, substituents) and molecular formula in the worked-example
+   format. I compared each result with the structure and with The Alkane.
+c) Part B (B01-B10): help working out the expected formula from each
+   given name, drafting the "name decoded", "formula check" and
+   "back-check" wording, and producing reference bond-line drawings
+   (B06-B10) to guide what I drew in The Alkane. My cards use my own
+   screenshots from The Alkane.
+d) Explaining tool and naming-convention differences (section 3).
+e) Layout and wording of this disclosure file.
+
+
+
+3. CASES WHERE THE TOOL AND THE RULES DISAGREED
+
+- A09 (4-isopropylheptane): The Alkane returned 2-methyl-3-propylhexane,
+  which uses a 6-C parent chain even though a 7-C chain exists. The
+  longest chain must be the parent, so 4-isopropylheptane is correct.
+- A10: The Alkane returned butylcyclopropane (current IUPAC rule: a ring
+  is the parent over a chain). My card follows the rule given on my
+  card: the longer chain is the parent, giving 1-cyclopropylbutane.
+  [Edit to match the convention you finally used.]
+- B08: The Alkane returned (1,1-dimethylethyl)cyclohexane. This is the
+  systematic form of tert-butylcyclohexane; same compound, C10H20.
+- B10: The given name 2-ethylbutane breaks the longest-chain rule (a 5-C
+  chain exists through the ethyl branch). The correct name returned by
+  The Alkane is 3-methylpentane.
+
+
+4. STUDENT STATEMENT
+
+I understand that I am responsible for the correctness of every name,
+structure and explanation in my portfolio. I checked every name against
+the numbering and substituent rules, recounted each molecular formula,
+and compared each Part B drawing with its decoded name before reading
+The Alkane's back-check. 
+
